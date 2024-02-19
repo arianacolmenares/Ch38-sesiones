@@ -4,11 +4,10 @@
 /* selector de etiqueta */ 
 body {
     background-color: #FFE8FF; 
-    color:beige;
+    color:black;
     font-family: Arial, Helvetica, sans-serif; 
     }
 main {
-    text-align: center; 
+    text-align: center;
     
-}
 }
